@@ -41,4 +41,4 @@ Theme Customization: Material UI provides a wide range of pre-built UI component
 
 CodeMirror: It is a popular choice for implementing the code editing functionality. CodeMirror is a versatile and customizable JavaScript library that provides a rich and interactive code editing experience.
 
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Documents/Projects/React-projects/codepen-clone/Capture.PNG?version%3D1685276790558)
+![Alt text]Capture.PNG
