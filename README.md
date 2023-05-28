@@ -29,42 +29,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Discription
+A CodePen clone made with React and Material UI is a web application that provides a similar functionality and user interface as the popular code playground platform CodePen. Users can write HTML, CSS, and JavaScript code in separate code editors and see the live output in real-time.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Key Components & Features
+Code Editors: The application provides separate code editors for HTML, CSS, and JavaScript, allowing users to write and edit code in each respective language.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Preview Pane: As users type their code in the editors, the application updates a preview pane in real-time, displaying the rendered output based on the entered HTML, CSS, and JavaScript code.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Theme Customization: Material UI provides a wide range of pre-built UI components and themes. Users can customize the visual appearance of their code editor and the overall application using Material UI's theming capabilities.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+CodeMirror: It is a popular choice for implementing the code editing functionality. CodeMirror is a versatile and customizable JavaScript library that provides a rich and interactive code editing experience.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Documents/Projects/React-projects/codepen-clone/Capture.PNG?version%3D1685276790558)
