@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Discription
+## Description 
 A CodePen clone made with React and Material UI is a web application that provides a similar functionality and user interface as the popular code playground platform CodePen. Users can write HTML, CSS, and JavaScript code in separate code editors and see the live output in real-time.
 
 ## Key Components & Features
