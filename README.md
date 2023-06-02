@@ -1,4 +1,4 @@
-# Getting Started with Codepen-Clone
+# Getting Started with CodeHub
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -30,7 +30,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Description 
-A CodePen clone made with React and Material UI is a web application that provides a similar functionality and user interface as the popular code playground platform CodePen. Users can write HTML, CSS, and JavaScript code in separate code editors and see the live output in real-time.
+A CodeHub made with React and Material UI is a web application that provides a similar functionality and user interface as the popular code playground platform CodePen. Users can write HTML, CSS, and JavaScript code in separate code editors and see the live output in real-time.
 
 ## Key Components & Features
 Code Editors: The application provides separate code editors for HTML, CSS, and JavaScript, allowing users to write and edit code in each respective language.
